@@ -1,0 +1,9 @@
+E:\My\Auth0-test-solution\Auth0-test.Appartments\obj\Debug\netcoreapp2.2\Auth0-test.Appartments.csprojAssemblyReference.cache
+E:\My\Auth0-test-solution\Auth0-test.Appartments\obj\Debug\netcoreapp2.2\Auth0-test.Appartments.csproj.CoreCompileInputs.cache
+E:\My\Auth0-test-solution\Auth0-test.Appartments\obj\Debug\netcoreapp2.2\Auth0-test.Appartments.AssemblyInfoInputs.cache
+E:\My\Auth0-test-solution\Auth0-test.Appartments\obj\Debug\netcoreapp2.2\Auth0-test.Appartments.AssemblyInfo.cs
+E:\My\Auth0-test-solution\Auth0-test.Appartments\bin\Debug\netcoreapp2.2\Auth0-test.Appartments.deps.json
+E:\My\Auth0-test-solution\Auth0-test.Appartments\bin\Debug\netcoreapp2.2\Auth0-test.Appartments.dll
+E:\My\Auth0-test-solution\Auth0-test.Appartments\bin\Debug\netcoreapp2.2\Auth0-test.Appartments.pdb
+E:\My\Auth0-test-solution\Auth0-test.Appartments\obj\Debug\netcoreapp2.2\Auth0-test.Appartments.dll
+E:\My\Auth0-test-solution\Auth0-test.Appartments\obj\Debug\netcoreapp2.2\Auth0-test.Appartments.pdb

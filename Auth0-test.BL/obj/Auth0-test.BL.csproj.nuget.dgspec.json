@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\My\\Auth0-test-solution\\Auth0-test.BL\\Auth0-test.BL.csproj": {}
+  },
+  "projects": {
+    "E:\\My\\Auth0-test-solution\\Auth0-test.BL\\Auth0-test.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My\\Auth0-test-solution\\Auth0-test.BL\\Auth0-test.BL.csproj",
+        "projectName": "Auth0-test.BL",
+        "projectPath": "E:\\My\\Auth0-test-solution\\Auth0-test.BL\\Auth0-test.BL.csproj",
+        "packagesPath": "C:\\Users\\Dr.klo\\.nuget\\packages\\",
+        "outputPath": "E:\\My\\Auth0-test-solution\\Auth0-test.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\Dr.klo\\.dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dr.klo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

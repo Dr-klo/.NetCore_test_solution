@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Leonid\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Leonid\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Auth0-test-solution.-1141362957.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Leonid\Downloads\Auth0-test-solution_2ndAssessment\Auth0-test-solution" t="IncludeFlat">
+      <e p="Auth0-test-DeliveryService" t="IncludeRecursive">
+        <e p="Auth0-test-DeliveryService.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Auth0-test-solution" t="IncludeRecursive">
+        <e p="Auth0-test-solution.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Auth0-test-solution.sln" t="IncludeFlat" />
+      <e p="Auth0-test.Appartments" t="IncludeRecursive">
+        <e p="Auth0-test.Appartments.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Auth0-test.BL" t="IncludeRecursive">
+        <e p="Auth0-test.BL.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

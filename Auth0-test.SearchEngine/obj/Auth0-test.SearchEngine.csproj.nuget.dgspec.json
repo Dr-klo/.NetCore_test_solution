@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\My\\Auth0-test-solution\\Auth0-test.SearchEngine\\Auth0-test.SearchEngine.csproj": {}
+  },
+  "projects": {
+    "E:\\My\\Auth0-test-solution\\Auth0-test.SearchEngine\\Auth0-test.SearchEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\My\\Auth0-test-solution\\Auth0-test.SearchEngine\\Auth0-test.SearchEngine.csproj",
+        "projectName": "Auth0-test.SearchEngine",
+        "projectPath": "E:\\My\\Auth0-test-solution\\Auth0-test.SearchEngine\\Auth0-test.SearchEngine.csproj",
+        "packagesPath": "C:\\Users\\Dr.klo\\.nuget\\packages\\",
+        "outputPath": "E:\\My\\Auth0-test-solution\\Auth0-test.SearchEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\Dr.klo\\.dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dr.klo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AWSSDK.CloudSearchDomain": {
+              "target": "Package",
+              "version": "[3.3.100.68, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

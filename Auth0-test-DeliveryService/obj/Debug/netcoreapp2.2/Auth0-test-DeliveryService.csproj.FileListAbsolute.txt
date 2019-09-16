@@ -1,0 +1,14 @@
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\bin\Debug\netcoreapp2.2\Auth0-test-DeliveryService.deps.json
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\bin\Debug\netcoreapp2.2\Auth0-test-DeliveryService.runtimeconfig.json
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\bin\Debug\netcoreapp2.2\Auth0-test-DeliveryService.runtimeconfig.dev.json
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\bin\Debug\netcoreapp2.2\Auth0-test-DeliveryService.dll
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\bin\Debug\netcoreapp2.2\Auth0-test-DeliveryService.pdb
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.csprojAssemblyReference.cache
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.csproj.CoreCompileInputs.cache
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.RazorAssemblyInfo.cache
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.RazorAssemblyInfo.cs
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.AssemblyInfoInputs.cache
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.AssemblyInfo.cs
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.RazorTargetAssemblyInfo.cache
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.dll
+E:\My\Auth0-test-solution\Auth0-test-DeliveryService\obj\Debug\netcoreapp2.2\Auth0-test-DeliveryService.pdb

@@ -1,0 +1,18 @@
+﻿{
+  "id": 467,
+  "shoppingList": [
+    {
+      "name": "Ice-Cream",
+      "article": 4,
+      "count": 1,
+      "price": 5
+    }
+  ],
+  "store": {
+    "name": "Ebay",
+    "address": "US",
+    "id": 1,
+    "hasDelivery": false
+  },
+  "status": 0
+}

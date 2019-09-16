@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+        <RootNamespace>Auth0_test_solution</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.App" />
+        <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+        <PackageReference Include="RestSharp" Version="106.6.10" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Auth0-test.Appartments\Auth0-test.Appartments.csproj" />
+      <ProjectReference Include="..\Auth0-test.BL\Auth0-test.BL.csproj" />
+    </ItemGroup>
+
+</Project>

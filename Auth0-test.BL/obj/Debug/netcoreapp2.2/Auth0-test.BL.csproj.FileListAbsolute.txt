@@ -1,0 +1,9 @@
+E:\My\Auth0-test-solution\Auth0-test.BL\obj\Debug\netcoreapp2.2\Auth0-test.BL.csprojAssemblyReference.cache
+E:\My\Auth0-test-solution\Auth0-test.BL\obj\Debug\netcoreapp2.2\Auth0-test.BL.csproj.CoreCompileInputs.cache
+E:\My\Auth0-test-solution\Auth0-test.BL\obj\Debug\netcoreapp2.2\Auth0-test.BL.AssemblyInfoInputs.cache
+E:\My\Auth0-test-solution\Auth0-test.BL\obj\Debug\netcoreapp2.2\Auth0-test.BL.AssemblyInfo.cs
+E:\My\Auth0-test-solution\Auth0-test.BL\bin\Debug\netcoreapp2.2\Auth0-test.BL.deps.json
+E:\My\Auth0-test-solution\Auth0-test.BL\bin\Debug\netcoreapp2.2\Auth0-test.BL.dll
+E:\My\Auth0-test-solution\Auth0-test.BL\bin\Debug\netcoreapp2.2\Auth0-test.BL.pdb
+E:\My\Auth0-test-solution\Auth0-test.BL\obj\Debug\netcoreapp2.2\Auth0-test.BL.dll
+E:\My\Auth0-test-solution\Auth0-test.BL\obj\Debug\netcoreapp2.2\Auth0-test.BL.pdb

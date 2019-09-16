@@ -1,0 +1,68 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\My\\Auth0-test-solution\\Auth0-test-solution\\Auth0-test-solution.csproj",
+    "projectName": "Auth0-test-solution",
+    "projectPath": "E:\\My\\Auth0-test-solution\\Auth0-test-solution\\Auth0-test-solution.csproj",
+    "outputPath": "E:\\My\\Auth0-test-solution\\Auth0-test-solution\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Users\\Dr.klo\\.dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "E:\\My\\Auth0-test-solution\\Auth0-test.Appartments\\Auth0-test.Appartments.csproj": {
+            "projectPath": "E:\\My\\Auth0-test-solution\\Auth0-test.Appartments\\Auth0-test.Appartments.csproj"
+          },
+          "E:\\My\\Auth0-test-solution\\Auth0-test.BL\\Auth0-test.BL.csproj": {
+            "projectPath": "E:\\My\\Auth0-test-solution\\Auth0-test.BL\\Auth0-test.BL.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "RestSharp": {
+          "target": "Package",
+          "version": "[106.6.10, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
